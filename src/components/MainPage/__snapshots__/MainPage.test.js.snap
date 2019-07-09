@@ -6,7 +6,7 @@ exports[`expect to render MainPage 1`] = `
   <SearchBox onSearchChange={[undefined]} />
   <Scroll>
     <ErrorBoundary>
-      <CardList robots={[Function]} />
+      <CardList robots={{...}} />
     </ErrorBoundary>
   </Scroll>
 </div>"
