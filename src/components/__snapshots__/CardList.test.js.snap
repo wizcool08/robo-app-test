@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render the CardList Component 1`] = `
+"<div className=\\"list-items\\">
+  <Card className=\\"robot\\" id={1} name=\\"John Snow\\" email=\\"john@gmail.com\\" />
+  <Card className=\\"robot\\" id={2} name=\\"Snow White\\" email=\\"snow@gmail.com\\" />
+</div>"
+`;
